@@ -1,5 +1,4 @@
 from database.DB_connect import DBConnect
-from model.customer import Customer
 
 
 class DAO():
